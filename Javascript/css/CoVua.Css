@@ -1,0 +1,20 @@
+  td{
+   width:80px;
+    height: 80px; 
+    text-align: center;
+    font-size: 25px;
+}
+table{
+    border-collapse: collapse;
+    border-right:20px ;
+    border-bottom: 20px;
+    border-color: orange;
+    border-style: solid; 
+} 
+tr:nth-child(odd) > td:nth-child(even){
+  background-color: #000;
+}
+tr:nth-child(even) > td:nth-child(odd){
+  background-color: #000;
+}
+
