@@ -23,9 +23,10 @@ table  td{
     text-align: center;
    
 }
-table td span{
+table td > span{
     font-size: 15px;
     color: black;
+
 }
 table th{
     font-size: 30px;
