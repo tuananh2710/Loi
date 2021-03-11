@@ -1,0 +1,9 @@
+span{
+    display: inline-block;
+    text-align: center;
+    padding: 0px 60px;
+}
+select{
+    height: 30px;
+    width: 120px;
+}
